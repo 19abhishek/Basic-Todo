@@ -1,0 +1,12 @@
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  width: 200px;
+}
+
+.btn {
+  width: 80px;
+}
